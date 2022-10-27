@@ -1,0 +1,3 @@
+C:/Users/Matthew/CLionProjects/CS236/cmake-build-debug/CMakeFiles/CS236.dir
+C:/Users/Matthew/CLionProjects/CS236/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matthew/CLionProjects/CS236/cmake-build-debug/CMakeFiles/rebuild_cache.dir
